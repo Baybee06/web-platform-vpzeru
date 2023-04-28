@@ -1,0 +1,51 @@
+body{
+  background-image:url(https://media.istockphoto.com/id/817486028/photo/shot-from-the-back-to-hooded-hacker-breaking-into-corporate-data-servers-from-his-underground.jpg?b=1&s=612x612&w=0&k=20&c=oc49CO7oCVP2tdaBF2DIYBOVTYIPil8omHh0ypH2fTs=);
+  font-family:sans-serif, Poppins;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:100%;
+  height:auto;
+  color:white;
+  padding:0.5rem;
+  }
+  h1, p {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 2rem;
+    font-family:serif;
+  }
+  p {
+    font-style:italic;
+    box-shadow:blow;
+  }
+  #survey-form{
+    background:rgb(1,127,158,0.5);
+    color: white;
+    box-shadow: 0 0 10px rgb(25, 105, 0);
+    width: 60vw;
+    max-width: 600px;
+    min-width: 400px;
+    margin: 0 auto;
+    padding: 25px 25px 30px 25px;
+  }
+  label{
+    display:block;
+  }
+  textarea,
+  select {
+    margin: 10px 5 5 0;
+    width: 100%;
+    min-height: 2em;
+    }
+  
+    input[type="submit"] {
+    display: block;
+    width: 60%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: green;
+    border-color: white;
+    min-width: 300px;}
